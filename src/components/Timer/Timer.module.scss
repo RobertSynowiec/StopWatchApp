@@ -1,0 +1,9 @@
+@import '../../styles/settings.scss';
+
+.component{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: $base-size *3;
+    color:  $color-light;
+}
